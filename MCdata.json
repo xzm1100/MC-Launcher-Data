@@ -1,5 +1,5 @@
 {
-    "dbUrl": "https://raw.gitmirror.com/xzm1100/MC-Launcher-Data/main/db.json",
+    "dbUrl": "https://raw.githubusercontent.com/xzm1100/MC-Launcher-Data/main/db.json",
     "serverStatus": true,
     "allowVanilla": true,
     "vanillaMirrors": [
