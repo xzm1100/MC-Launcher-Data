@@ -1,7 +1,7 @@
 {
     "dbUrl": "https://raw.githubusercontent.com/xzm1100/MC-Launcher-Data/main/db.json",
     "serverStatus": true,
-    "allowVanilla": true,
+    "allowVanilla": false,
 "tips" : [
     "首次启动可能较慢，请耐心等待。",
     "整合包下载已升级防 WAF 拦截系统。",
@@ -85,9 +85,9 @@
     "modpackList": [
         {
             "id": 1,
-            "name": "1.20.1 示例整合包",
+            "name": "1.20.4-Fabric 0.20.1-MTR 整合包 作者：Ming",
             "type": "zip",
-            "downloadUrl": "https://github.com/xzm1100/MC-Launcher-Data/releases/download/v1.0/整合包.zip"
+            "downloadUrl": "https://github.com/xzm1100/MC-Launcher-Data/整合包.zip"
         }
     ]
 }
