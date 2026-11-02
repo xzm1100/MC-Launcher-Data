@@ -1,5 +1,5 @@
 {
-    "latestLauncherVersion": "1.1.0",
+    "dbUrl": "https://raw.gitmirror.com/xzm1100/MC-Launcher-Data/main/db.json",
     "serverStatus": true,
     "allowVanilla": true,
     "vanillaMirrors": [
@@ -13,9 +13,9 @@
     "modpackList": [
         {
             "id": 1,
-            "name": "1.20.1 例示整合包",
+            "name": "1.20.1 示例整合包",
             "type": "zip",
-            "downloadUrl": "https://smzl.ccccocccc.cc/example.zip"
+            "downloadUrl": "https://github.com/xzm1100/MC-Launcher-Data/releases/download/v1.0/整合包.zip"
         }
     ]
 }
