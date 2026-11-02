@@ -1,0 +1,21 @@
+{
+    "latestLauncherVersion": "1.1.0",
+    "serverStatus": true,
+    "allowVanilla": true,
+    "vanillaMirrors": [
+        {
+            "name": "BMCLAPI镜像",
+            "url": "https://bmclapi2.bangbang93.com",
+            "type": "mirror"
+        }
+    ],
+    "allowVersions": ["1.21.4", "1.20.1"],
+    "modpackList": [
+        {
+            "id": 1,
+            "name": "1.20.1 例示整合包",
+            "type": "zip",
+            "downloadUrl": "https://smzl.ccccocccc.cc/example.zip"
+        }
+    ]
+}
