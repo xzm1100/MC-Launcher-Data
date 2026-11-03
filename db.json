@@ -1,5 +1,5 @@
 {
-    "latestLauncherVersion": "1.2.0",
-    "storageLocation": "https://raw.githubusercontent.com/xzm1100/MC-Launcher-Data/main/MC.exe",
-    "announcement": "欢迎使用简易MC启动器！\n\n1. 首次启动可能较慢。\n2. 请使用纯英文名进入游戏。\n3. 下载版本请点击左下角。"
+    "latestLauncherVersion": "1.3.0",
+    "updateUrl": "https://github.com/xzm1100/MC-Launcher-Data/main/MC简易启动器V3.zip",
+    "announcement": "欢迎使用！\n【更新】\n1. 增加了全盘Java检测和自动下载。\n2. 增加了自定义MC目录。\n3. 优化了测试模式。"
 }
